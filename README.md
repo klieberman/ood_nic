@@ -1,6 +1,6 @@
 # Neural Image Compression: Generalization, Robustness, and Spectral Biases
 
-Official code implementation for ["Neural Image Compression: Generalization, Robustness, and Spectral Biases".](https://arxiv.org/abs/2307.08657)
+Official code implementation for NeurIPS 2023 paper ["Neural Image Compression: Generalization, Robustness, and Spectral Biases".](https://arxiv.org/abs/2307.08657)
 
 ## Environment
 Details about the environment are specified in `environment.yml`.
